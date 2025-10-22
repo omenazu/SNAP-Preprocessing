@@ -12,7 +12,7 @@ This project shows the preprocessing workflow for Sentinel-1 SAR data using ESA 
 ## Screenshot
 Below is an image showing the preprocessing interface and results.
 
-![SNAP Preprocessing](SNAP_preprocessing_result.jpg)
+![SNAP Preprocessing](SNAP_preprocessing_result.jpeg)
 
 ## Tools Used
 - SNAP (Sentinel Application Platform)  
